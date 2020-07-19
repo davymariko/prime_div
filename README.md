@@ -2,6 +2,7 @@
 A program wrote in C that calculates prime divisors of a list of numbers
 
 It is a project that I developed with friends in the school setting at the "Univesithé Catholique de Louvain" in the beginning of 2020
+
 *Collaboration tool used*: GitLab
 
 *Environment*: Linux
